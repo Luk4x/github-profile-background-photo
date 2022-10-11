@@ -28,7 +28,8 @@ main {
     align-items: center;
     width: 850px;
     height: 479px;
-    /* filter: brightness(75%); */
+    filter: brightness(95%);
+    position: relative;
 }
 
 .info {
@@ -41,6 +42,11 @@ main {
     border-radius: 3px;
     padding: 40px;
     width: 400px;
+    filter: brightness(105%);
+}
+
+.infoBR {
+    width: 573px;
 }
 
 .info h1 {
@@ -64,6 +70,15 @@ main {
     border-bottom: 1px solid;
     opacity: 0;
     animation: blink 7.5s 0.5s infinite;
+}
+
+.quote {
+    position: absolute;
+    color: #eeeeee60;
+    font-size: 14px;
+    font-weight: 500;
+    bottom: 10px;
+    left: 10px;
 }
 
 @keyframes typing {
