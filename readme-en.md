@@ -13,7 +13,7 @@
 <br>
 
 # 📷 Github Profile Background Photo
-<img align="center" width="100%" alt="about" src="https://user-images.githubusercontent.com/86276393/194786782-d9a3b849-d1f7-438d-b4b2-ba31641a2cbe.png"/>
+<img align="center" width="100%" alt="about" src="https://user-images.githubusercontent.com/86276393/196288089-dfcb900c-4a27-4f82-95dd-eb0233461bfa.gif"/>
 
 > Access the project online **[HERE](https://luk4x.github.io/github-profile-background-photo/)**
 
