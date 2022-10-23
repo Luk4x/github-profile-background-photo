@@ -23,7 +23,8 @@
 -   [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ## 📝 About
-The name is pretty self-explanatory, but this project just consists of being the cover of my profile on Github.
+The name is pretty self-explanatory, but this project just consists of being the cover of my profile on Github.<br>
+[ScreenToGif](https://www.screentogif.com/) was used to record the Gif.
 
 ## 📖 Cloning the Project
 
