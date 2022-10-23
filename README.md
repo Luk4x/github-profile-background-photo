@@ -23,7 +23,8 @@
 -   [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ## 📝 Sobre
-O nome é bem autoexplicativo, mas esse projeto se consiste apenas em ser a capa do meu perfil no Github.
+O nome é bem autoexplicativo, mas esse projeto se consiste apenas em ser a capa do meu perfil no Github.<br>
+Foi usado o [ScreenToGif](https://www.screentogif.com/) para a gravação do Gif.
 
 ## 📖 Clonando o Projeto
 
