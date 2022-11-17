@@ -10,8 +10,9 @@
     </td>
   </tr>
 </table>
-<br>
 
+![luk4x-repo-status](https://img.shields.io/badge/Status-Finished-lightgrey?style=for-the-badge&logo=headspace&logoColor=green&color=lightgrey)
+![luk4x-repo-license](https://img.shields.io/github/license/Luk4x/github-profile-background-photo?style=for-the-badge&logo=unlicense&logoColor=lightgrey)
 # 📷 Github Profile Background Photo
 <img align="center" width="100%" alt="about" src="https://user-images.githubusercontent.com/86276393/196288089-dfcb900c-4a27-4f82-95dd-eb0233461bfa.gif"/>
 
