@@ -13,7 +13,7 @@
 
 ![luk4x-repo-status](https://img.shields.io/badge/Status-Finished-lightgrey?style=for-the-badge&logo=headspace&logoColor=green&color=lightgrey)
 ![luk4x-repo-license](https://img.shields.io/github/license/Luk4x/github-profile-background-photo?style=for-the-badge&logo=unlicense&logoColor=lightgrey)
-# 📷 Github Profile Background Photo
+# 📷 Github Banner
 <img align="center" width="100%" alt="about" src="https://user-images.githubusercontent.com/86276393/196288089-dfcb900c-4a27-4f82-95dd-eb0233461bfa.gif"/>
 
 > Access the project online **[HERE](https://luk4x.github.io/github-profile-background-photo/)**
@@ -45,20 +45,40 @@ After that, in the terminal:
 ```
 
 ## 🤝 Contributor Contact
-
-<table>
+<table border="2">
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/lucasmacielf/">
-        <img src="https://avatars.githubusercontent.com/Luk4x" width="150px;" alt="Luk4x Github Photo"/><br>
-        <sub>
-          <b>Lucas Maciel</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
+      <details>
+        <summary>
+          <b><a href="https://cursos.alura.com.br/vitrinedev/lucasmacielf">Vitrine.Dev</a> 🪟</b>
+          <table>
+            <tr>
+              <td align="center">
+                <a href="https://github.com/Luk4x">
+                  <img src="https://avatars.githubusercontent.com/Luk4x" width="150px;" alt="Luk4x Github Photo"/>
+                </a>
+                <br>
+                <a href="https://www.linkedin.com/in/lucasmacielf/">
+                  <sub>
+                    <b>Lucas Maciel</b>
+                  </sub>
+                </a>
+              </td>
+            </tr>
+          </table>
+        </summary>
+
+| :placard: Vitrine.Dev | Lucas Maciel |
+| -------------  | --- |
+| :sparkles: Name        | **📷 Github Banner**
+| :label: Technologies | css, html
+| :camera: Img         | <img src="https://user-images.githubusercontent.com/86276393/196287962-eabc8dc8-73f4-4abc-a86d-abb5bb8d3ceb.gif#vitrinedev" alt="vitrine.dev thumb" width="100%"/>
+
+</details>
+</td>
+</tr>
 </table>
 
 <p align="right">
-  <a href="#-github-profile-background-photo">Back to Top</a>
+  <a href="#-github-banner">Back to Top</a>
 </p>
