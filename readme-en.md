@@ -72,7 +72,7 @@ After that, in the terminal:
 | -------------  | --- |
 | :sparkles: Name        | **📷 Github Banner**
 | :label: Technologies | css, html
-| :camera: Img         | <img src="https://user-images.githubusercontent.com/86276393/196287962-eabc8dc8-73f4-4abc-a86d-abb5bb8d3ceb.gif#vitrinedev" alt="vitrine.dev thumb" width="100%"/>
+| :camera: Img         | <img src="https://user-images.githubusercontent.com/86276393/196288089-dfcb900c-4a27-4f82-95dd-eb0233461bfa.gif#vitrinedev" alt="vitrine.dev thumb" width="100%"/>
 
 </details>
 </td>
