@@ -81,5 +81,5 @@ Feito isso, no terminal:
 </table>
 
 <p align="right">
-  <a href="#-github-profile-background-photo">Voltar ao Topo</a>
+  <a href="#-github-banner">Voltar ao Topo</a>
 </p>
