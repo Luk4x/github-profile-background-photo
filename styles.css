@@ -26,10 +26,19 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 866px;
-  height: 488px;
+  width: 900px;
+  height: 500px;
   filter: brightness(95%);
   position: relative;
+}
+
+.github-user {
+  position: absolute;
+  color: #aaaaaa70;
+  font-size: 14px;
+  font-weight: 400;
+  top: 10px;
+  right: 10px;
 }
 
 .info {
@@ -57,13 +66,13 @@ main {
   font-size: 50px;
   overflow: hidden;
   color: #70a5fdaa;
-  border-right: 4px solid #bf91f3aa;
+  border-right: 4px solid #bf91f390;
   white-space: nowrap;
   margin: 0 auto;
   letter-spacing: 3px;
   animation: typing 7.5s steps(40, end) infinite, blink-caret 0.5s infinite;
   height: 56px;
-  filter: drop-shadow(0 0 4px #00000040);
+  filter: drop-shadow(0 0 4px #00000040) brightness(95%);
 }
 
 .info h2 {
@@ -74,7 +83,7 @@ main {
   border-bottom: 1px solid;
   opacity: 0;
   animation: blink 7.5s 0.5s infinite;
-  filter: drop-shadow(0 0 4px #00000030);
+  filter: drop-shadow(0 0 4px #00000030) brightness(95%);
 }
 
 .blur,
@@ -106,13 +115,37 @@ main {
   background: #70a5fdaa;
 }
 
+.info-background-blur {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  border-radius: 4px;
+  filter: blur(60px);
+  background: linear-gradient(140deg, #70a5fd60, #00000090);
+  z-index: -1;
+}
+
 .quote {
   position: absolute;
   color: #eeeeee70;
+  filter: drop-shadow(0 0 4px #000000aa);
   font-size: 14px;
   font-weight: 400;
   bottom: 10px;
   left: 10px;
+}
+
+.background-blur {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  filter: blur(200px);
+  background: #00000070;
+  z-index: -1;
 }
 
 @keyframes typing {
@@ -143,7 +176,7 @@ main {
     border-color: transparent;
   }
   50% {
-    border-color: #bf91f3aa;
+    border-color: #bf91f390;
   }
 }
 
